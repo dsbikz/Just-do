@@ -5,6 +5,6 @@ public class Main {
         int a = key.nextInt();
         int b = key.nextInt();
         System.out.println(a-b);
-
+//wow look at now
     }
 }
